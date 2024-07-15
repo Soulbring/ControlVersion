@@ -1,3 +1,4 @@
+![](https://github.githubassets.com/assets/git-commit-199ab3f3f652.png)
 # Установка Git
 1.	Windows: Скачайте и установите Git с официального сайта Git for Windows.
 2.	macOS: Используйте Homebrew:

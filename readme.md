@@ -3,11 +3,11 @@
 1.	Windows: Скачайте и установите Git с официального сайта Git for Windows.
 2.	macOS: Используйте Homebrew:
 
-    *brew install git*
+    brew install git
 
 3.	Linux: Используйте пакетный менеджер вашего дистрибутива. Например, для Ubuntu:
-add
-    *sudo apt-get install git*
+    add
+    sudo apt-get install git
 
 # Настройка Git
 
